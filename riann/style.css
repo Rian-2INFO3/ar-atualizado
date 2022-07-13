@@ -1,0 +1,96 @@
+body {
+    margin: 0 auto;
+    font-family: Verdana, sans-serif;
+}
+
+
+header span {
+    padding: 0 25px;
+}
+
+header {
+    height: 10%;
+    background-color: rgb(52, 95, 187);
+    color: #ffffff;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    padding-left: 25px;
+    justify-content: space-between;
+}
+
+header img {
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+
+header h1 {
+    float: left;
+    margin: 50px 0 0 30px;
+    font-size: 60px;
+    color: white;
+}
+
+/*MENU*/
+
+nav{
+    clear: both;
+    width: 80%;
+    margin: 0px auto;
+    height: 55px;
+
+}
+
+nav a{
+    color: #ffffff;
+    text-decoration:none;
+    text-align: center ;
+}
+
+nav .opcão{
+    float: left;
+    width: 31.3%;
+    background-color: tan;
+    padding: 10px 0;
+    margin: 0 1%;
+    font-size: 26px;
+}
+
+nav.opcão:hover{
+    background-color: aliceblue;
+}
+
+section{
+    clear: both;
+    min-height: 360px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+section #topo{
+    width: 1050px;
+    margin: 0px auto;
+    height: 270px;
+}
+
+
+.arcondicionado{
+    height: 200px;
+    width: 200px;
+}
+
+.direito{
+    float: right;
+}
+
+.esquerdo{
+    float: left;
+}
+
+.topo2{
+    height: 250px;
+    width: 800px;
+}
