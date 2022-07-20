@@ -4,10 +4,6 @@ body {
 }
 
 
-header span {
-    padding: 0 25px;
-}
-
 header {
     height: 10%;
     background-color: rgb(52, 95, 187);
